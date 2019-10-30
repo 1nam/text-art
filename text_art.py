@@ -1,0 +1,10 @@
+#The pyramid
+print("          ^           ")
+print("         / \          ")
+print("        /   \         ")
+print("       /     \        ")
+print("      /       \       ")
+print("     /         \      ")
+print("    /           \     ")
+print("   /             \    ")
+print("  /_______________\   ")
